@@ -68,6 +68,4 @@ I am a dedicated **Flutter Application Developer** with over **1 years of profes
 
 ⭐ **Feel free to explore my repositories and reach out for collaboration!**
 
-[![](https://visitcount.itsvg.in/api?id=oxfaysal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
