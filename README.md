@@ -22,7 +22,7 @@ I am a dedicated **Flutter Application Developer** with over **20+ Complete Proj
 ## 🛠️ Skills & Technologies
 
 ### 🧩 **Mobile Development**
-✨ Flutter (Dart)
+✨ Flutter (Dart) <br/>
 ✨ State Management: Provider, GetX, Riverpod, Bloc
 ✨ Clean Architecture & MVVM
 ✨ REST API Integration
@@ -37,7 +37,7 @@ I am a dedicated **Flutter Application Developer** with over **20+ Complete Proj
 
 ### 🧰 **Tools & Others**
 ✨ Git & GitHub
-✨- Android Studio / VS Code
+✨ Android Studio / VS Code
 ✨ Postman
 ✨ Figma (UI/UX)
 ✨ Deployment & App Publishing
