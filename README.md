@@ -23,24 +23,24 @@ I am a dedicated **Flutter Application Developer** with over **20+ Complete Proj
 
 ### 🧩 **Mobile Development**
 ✨ Flutter (Dart) <br/>
-✨ State Management: Provider, GetX, Riverpod, Bloc
-✨ Clean Architecture & MVVM
-✨ REST API Integration
-✨ Firebase (Auth, Firestore, FCM)
-✨ Local Database (Share Preference, SQFLite)
+✨ State Management: Provider, GetX, Riverpod, Bloc <br/>
+✨ Clean Architecture & MVVM <br/>
+✨ REST API Integration <br/>
+✨ Firebase (Auth, Firestore, FCM) <br/>
+✨ Local Database (Share Preference, SQFLite) <br/>
 
 ### ⚙️ **Backend**
-✨ PHP (Core & OOP)
-✨ Laravel (basic)
-✨ MySQL Database
-✨ API Development & Management
+✨ PHP (Core & OOP) <br/>
+✨ Laravel (basic) <br/>
+✨ MySQL Database <br/>
+✨ API Development & Management <br/>
 
 ### 🧰 **Tools & Others**
-✨ Git & GitHub
-✨ Android Studio / VS Code
-✨ Postman
-✨ Figma (UI/UX)
-✨ Deployment & App Publishing
+✨ Git & GitHub <br/>
+✨ Android Studio / VS Code <br/>
+✨ Postman <br/>
+✨ Figma (UI/UX) <br/>
+✨ Deployment & App Publishing <br/>
 
 ---
 
@@ -48,10 +48,23 @@ I am a dedicated **Flutter Application Developer** with over **20+ Complete Proj
 
 
 ### 📶 **Personal Projects**
-- Utility Apps  
-- Local Business Apps  
-- Learning Apps  
-- Portfolio Apps  
+✨ Weather Mobile App  <br/>
+✨ Country List App  <br/>
+✨ Calculator App  <br/>
+✨ Todo List App  <br/>
+✨ Food delivery app <br/>
+✨ Ramadan Schedule Mobile App <br/>
+✨ Google Map Current Location <br/>
+✨ Real Time Task Management for Mobile Apps <br/>
+✨ E-commerce app <br/>
+✨ Photoshoot With AI <br/>
+✨ Background Remove With AI <br/>
+✨ Avatar Creator With AI <br/>
+✨ Dress Modifier With AI <br/>
+✨ Photo Upscale With AI <br/>
+✨ Image Restore With AI <br/>
+✨ ATS Friendly CV With AI <br/>
+
 
 > _More projects coming soon…_
 
