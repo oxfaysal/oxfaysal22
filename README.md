@@ -76,35 +76,6 @@ I am a dedicated **Flutter Application Developer** with over **2+ Years of Expri
 ![](https://nirzak-streak-stats.vercel.app/?user=oxfaysal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxfaysal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 📊 My Live GitHub Contribution Graph
-
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "oxfaysal");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "oxfaysal", { responsive: true });
-</script>
-
-
-
-
 ---
 
 ## 🤝 Connect With Me
