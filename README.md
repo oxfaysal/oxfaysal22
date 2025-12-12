@@ -1,31 +1,3 @@
-<!-- Centered Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Faysal+👋;Flutter+Developer+💻;Open+Source+Enthusiast+✨">
-</p>
-
-<!-- Short Intro -->
-<p align="center">
-  🚀 Building Flutter apps for 2 years | Passionate about clean UI & fast performance
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/faysal" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/faysal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/faysal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysal&show_icons=true&theme=radical" alt="Faysal's GitHub Stats" />
-</p>
-
-
-
-----------------------------
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Faysal+👋">
 </p>
