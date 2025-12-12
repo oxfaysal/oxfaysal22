@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Faysal+👋">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxfaysal&show_icons=true)
-
 <p align="center">
   <b>Flutter App Developer | Mobile App Specialist | 20+ Project Complete</b>
 </p>
