@@ -1,4 +1,4 @@
-<h1 align="center", color = "yellow">Hi, I'm Faysal 👋</h1>
+<h1 align="center", style="color🟡;">Hi, I'm Faysal 👋</h1>
 
 <p align="center">
   <b>Flutter App Developer | Mobile App Specialist | 20+ Project Complete</b>
