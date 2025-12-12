@@ -1,10 +1,5 @@
-<p align="center">
-  <svg width="100%" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00ffff" font-size="40">
-      Hi, I'm Faysal 👋
-    </text>
-  </svg>
-</p>
+<h1 align="center"><font color="#00ffff">Hi, I'm Faysal 👋</font></h1>
+
 
 
 <p align="center">
